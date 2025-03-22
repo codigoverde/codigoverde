@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es **Israel**<br>Soy un profesional con experiencia en gestión de proyectos de desarrollo de software, especializado en metodologías ágiles como Scrum y Kanban, con habilidades en priorización de tareas, resolución de conflictos y comunicación efectiva con stakeholders. He liderado equipos multidisciplinarios, gestionado cambios en requisitos y transiciones a fases de mantenimiento, utilizando herramientas como Jira y técnicas como MoSCoW. Apasionado por las nuevas tecnologías, busco aplicarlas para optimizar procesos y mejorar resultados, contribuyendo al éxito de proyectos innovadores y fomentando un ambiente colaborativo y motivador como Scrum Master o Product Owner.</p>
+<p align="left">Mi nombre es <strong>Israel</strong><br>Soy un profesional con experiencia en gestión de proyectos de desarrollo de software, especializado en metodologías ágiles como Scrum y Kanban, con habilidades en priorización de tareas, resolución de conflictos y comunicación efectiva con stakeholders. He liderado equipos multidisciplinarios, gestionado cambios en requisitos y transiciones a fases de mantenimiento, utilizando herramientas como Jira y técnicas como MoSCoW. Apasionado por las nuevas tecnologías, busco aplicarlas para optimizar procesos y mejorar resultados, contribuyendo al éxito de proyectos innovadores y fomentando un ambiente colaborativo y motivador como Scrum Master o Product Owner.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">:computer: **Scrum Master** y **Web Developer** en Global Standards<br>:books: Actualmente estoy estudiando **Ingeniería de Datos**<br>:game_die: Fun fact: soy Dungeon Master, me gustan los juegos de mesa y tengo 12 michis :cat2:</p>
+<p align="left">:computer: <strong>Scrum Master</strong> y <strong>Web Developer</strong> en Global Standards<br>:books: Actualmente estoy estudiando <strong>Ingeniería de Datos</strong><br>:game_die: Fun fact: soy Dungeon Master, me gustan los juegos de mesa y tengo 12 michis :cat2:</p>
 
 ###
 
